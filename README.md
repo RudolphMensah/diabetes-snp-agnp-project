@@ -1,2 +1,0 @@
-# diabetes-snp-agnp-project
-
